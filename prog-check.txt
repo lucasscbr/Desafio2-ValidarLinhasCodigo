@@ -1,0 +1,13 @@
+{[]} - OK
+([)] - Inválido
+[{()()}[]] - OK
+{}()[()]] - Inválido
+)[{}]()( - Inválido
+(()[)] - Inválido
+<<[]()>> - OK
+<<()[<>}> - Inválido
+() - OK
+[] - OK
+{} - OK
+{}) - Inválido
+<> - OK
